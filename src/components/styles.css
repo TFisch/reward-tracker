@@ -1,0 +1,27 @@
+.table-wrapper {
+  padding: 50px 100px;
+}
+
+.no-records {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 400px;
+  min-height: 200px;
+  margin: 100px auto;
+  border: solid rgba(0, 0, 0, 0.267) 1px;
+  box-shadow: 5px 5px 2px 1px rgba(0, 0, 0, 0.267);
+}
+
+.no-records h4 {
+  color: rgba(0, 0, 0, 0.87);
+  font-weight: 600;
+}
+
+.select-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 250px;
+  padding: 50px 100px;
+}
